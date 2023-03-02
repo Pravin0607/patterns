@@ -40,7 +40,7 @@
   1 &nbsp; 2 &nbsp; 3 &nbsp; 4 &nbsp; 5
 
 
-- Pattern 3
+- Pattern 4
 
   1
 
@@ -51,4 +51,17 @@
   4 &nbsp; 4 &nbsp; 4 &nbsp; 4
 
   5 &nbsp; 5 &nbsp; 5 &nbsp; 5 &nbsp; 5
+
+
+- Pattern 5
+  
+  \* &nbsp; \* &nbsp; \*  &nbsp; \*  &nbsp; \*
+
+  \* &nbsp; \* &nbsp; \*  &nbsp; \* 
+
+  \* &nbsp; \* &nbsp; \*
+
+  \* &nbsp; \*
+
+  \* &nbsp;
 
