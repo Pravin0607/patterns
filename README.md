@@ -38,3 +38,17 @@
   1 &nbsp; 2 &nbsp; 3 &nbsp; 4
 
   1 &nbsp; 2 &nbsp; 3 &nbsp; 4 &nbsp; 5
+
+
+- Pattern 3
+
+  1
+
+  2 &nbsp; 2
+
+  3 &nbsp; 3 &nbsp; 3
+
+  4 &nbsp; 4 &nbsp; 4 &nbsp; 4
+
+  5 &nbsp; 5 &nbsp; 5 &nbsp; 5 &nbsp; 5
+
